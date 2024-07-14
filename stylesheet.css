@@ -1,0 +1,9 @@
+.box{
+    background-color: cadetblue;
+height: 400px;
+width: 400px;
+padding: 100px;
+margin-bottom: 200px;
+
+border: 2px solid black;
+}
